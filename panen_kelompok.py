@@ -8,7 +8,10 @@ def tambah_data_panen(jumlah):
     print("Data panen berhasil ditambahkan:", jumlah, "kg")
 
 
+konflik-anggota-a
+print("Sistem Pencatatan Hasil Panen Digital - Kelompok TIN")
 print("Sistem Pencatatan Hasil Panen Digital - Anggota B")
+main
 def tampilkan_laporan():
     total = sum(data_panen)
 
