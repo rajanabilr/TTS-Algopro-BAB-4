@@ -9,3 +9,9 @@ def tambah_data_panen(jumlah):
 
 
 print("Sistem Pencatatan Hasil Panen Digital")
+def tampilkan_laporan():
+    total = sum(data_panen)
+
+    print("=== LAPORAN HASIL PANEN ===")
+    print("Data panen:", data_panen)
+    print("Total hasil panen:", total, "kg")
